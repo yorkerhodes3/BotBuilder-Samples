@@ -104,11 +104,11 @@
               },
               {
                 "name": "MICROSOFT_APP_ID",
-                "value": "[parameters('MICROSOFT_APP_ID')]"
+                "value": "[parameters('d2fad877-2934-4936-a16b-0a8008ba3526')]"
               },
               {
                 "name": "MICROSOFT_APP_PASSWORD",
-                "value": "[parameters('MICROSOFT_APP_PASSWORD')]"
+                "value": "[parameters('J2w74roVSYRVfgpDMpxYkFX')]"
               },
               {
                 "name": "BING_MAPS_KEY",
